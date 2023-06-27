@@ -21,3 +21,20 @@ This is a Python script that scrapes quotes from a website and sends a random qu
 
    ```bash
    cd Automated_Emailer
+   ```
+   
+3. Install the required Python libraries using pip:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Open the Automated_Emailer.py file and make the following changes:
+
+* Replace YOUR_EMAIL_ADDRESS with your email address.
+* Replace YOUR_EMAIL_PASSWORD with your email password.
+* Replace RECIPIENT_EMAIL_ADDRESS with the recipient's email address.
+
+5. Save the changes
+
+
