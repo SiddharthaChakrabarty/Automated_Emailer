@@ -37,4 +37,14 @@ This is a Python script that scrapes quotes from a website and sends a random qu
 
 5. Save the changes
 
+## Usage
 
+To run the script and send a random quote via email, execute the following command:
+
+   ```bash
+   python Automated_Emailer.py
+   ```
+
+The script will scrape quotes from the specified website, select a random quote, and send it via email to the recipient.
+
+Note: Make sure you have an active internet connection for the script to fetch quotes from the website.
